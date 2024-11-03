@@ -1,6 +1,6 @@
 from lexer import lex
 
-
+#the code is hard coded for now till the implementation of the interface
 code = '''
 #include<stdio.h>
 
